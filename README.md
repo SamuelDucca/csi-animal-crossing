@@ -1,2 +1,5 @@
 # csi-animal-crossing
-Repository containing code for the "Low-cost animal and pedestrian crossing detection in rural roads using WiFi sensing and deep learning" Master's thesis.
+Repository containing the OMNeT++ simulation configurations for the "Low-cost animal and pedestrian crossing detection in rural roads using WiFi sensing and deep learning" Master's thesis.
+
+## Simulator version
+This work was conducted using OMNeT++ 5.7.1, INET framework 4.2.1 and the ComNets RPL package (omnetpp-rpl).
